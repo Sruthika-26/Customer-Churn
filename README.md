@@ -1,5 +1,5 @@
 
-# Telco Customer Churn Project
+# Customer Churn Project
 
 This project is a machine learning project focusing on customer churn prediction. The project consists of 4 main steps: 
 - Data Preprocessing and Model Development (CatBoost)
